@@ -1,2 +1,4 @@
 # Challenge Labs : AZ-104
-This repository has all the information related to The Azure Administrator Challenge
+
+Validate and Enhance your Azure Administration Skills with Challenge Labs.
+
