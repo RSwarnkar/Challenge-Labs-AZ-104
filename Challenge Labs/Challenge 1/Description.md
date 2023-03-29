@@ -1,8 +1,10 @@
 ## Challenge 1 : Contoso User & Group Management
 
-### Lab Environment: Brand new Azure AD tenant with an account having Global Admin rights. 
+### Lab Environment: 
+Brand new Azure AD tenant with an account having Global Admin rights. 
 
-### Level: Intermediate 
+### Level: 
+Intermediate 
 
 ### Challenge Objective: 
 • Create a new user in Azure AD named "John Smith" with a password 
