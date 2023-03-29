@@ -51,6 +51,7 @@ enthusiasts. Join the program today and see how far you can go!
 • Azure Administrators, Architects
 
 ## Pre-Requisite
-• Completed AZ-104 (Azure Administrator) certification. 
+• Completion of AZ-104 (Azure Administrator) certification. 
+
 • An understanding of general IT concepts, especially networking and operating 
 systems.
