@@ -1,7 +1,7 @@
 ## Challenge 1 : Contoso User & Group Management
 
 ### **Lab Environment:** 
-Brand new Azure AD tenant with an account having Global Admin rights. 
+The environment includes a Azure AD tenant with an account having Global Admin rights. 
 
 ### **Level:** Intermediate 
 
