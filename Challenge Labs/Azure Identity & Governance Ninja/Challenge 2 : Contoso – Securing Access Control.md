@@ -31,4 +31,4 @@ challenges.
      o Permissions must not be assigned to user accounts directly.
      o Permissions must not be duplicated at various scopes. 
      o Only you, John Doe, admin@cloudlabs and cloudlabs-spn can 
-      have access to Azure AD. Any other access must be removed. 
+       have access to Azure AD. Any other access must be removed. 
