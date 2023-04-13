@@ -11,21 +11,21 @@ Contoso has decided that it needs to encrypt the data on its virtual machines to
 
 #### The virtual machine has the following specifications :
 
-• The virtual machine is running Windows Server 2019.
+1. The virtual machine is running Windows Server 2019.
 
-• The virtual machine has a data disk with a size of 32 GB.
+1. The virtual machine has a data disk with a size of 32 GB.
 
-• The virtual machine is currently located in the West US 2 region.
+1. The virtual machine is currently located in the West US 2 region.
 
-• The virtual machine is not currently encrypted.
+1. The virtual machine is not currently encrypted.
 
 Your team's challenge is to encrypt the virtual machine by using Azure Disk Encryption. The encryption key should be stored in Azure Key Vault.
 
 ### Success Criteria:
 
-• The virtual machine must be encrypted.
+1. The virtual machine must be encrypted.
 
-• The encryption key must be stored in Azure Key Vault.
+1. The encryption key must be stored in Azure Key Vault.
 
 ### Lab Validation
 
