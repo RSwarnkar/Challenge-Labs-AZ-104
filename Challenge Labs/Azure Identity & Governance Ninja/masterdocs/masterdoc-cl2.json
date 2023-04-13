@@ -1,0 +1,13 @@
+[ 
+  {
+  "Name": "Secure Access control Challenge : Challenge 2",
+  "Language": "English",
+  "BaseURL": "https://github.com/CloudLabs-MOC/Challenge-Labs-AZ-104",
+  "Files": [
+     {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/Challenge-Labs-AZ-104/main/Challenge%20Labs/Azure%20Identity%20%26%20Governance%20Ninja/Challenge%202%20%3A%20Contoso%20%E2%80%93%20Securing%20Access%20Control.md?token=GHSAT0AAAAAACBG4VHX7DRV5X2TUB4H5V76ZBYBD6Q",
+       "Order": 1
+     }
+  ]
+ } 
+]
