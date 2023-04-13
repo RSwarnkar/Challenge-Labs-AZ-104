@@ -36,7 +36,7 @@ Brand new Azure AD tenant with an Azure Subscription with Contributor rights.
 • Any other dependent Azure resource, scripts etc required to meet the 
 goal.
 
-#### Success Criteria:
+### Success Criteria:
 
 • The web application must be accessible from the internet via port 80.
 
