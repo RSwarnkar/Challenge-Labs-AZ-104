@@ -32,3 +32,7 @@ challenges.
      o Permissions must not be duplicated at various scopes. 
      o Only you, John Doe, admin@cloudlabs and cloudlabs-spn can 
        have access to Azure AD. Any other access must be removed. 
+       
+  ### Lab Validation
+
+Click on Validate from the **Lab Validation** tab to know if you have completed the challenge successfully.
