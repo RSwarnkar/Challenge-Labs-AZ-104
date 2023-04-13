@@ -17,7 +17,7 @@ Contoso has decided that it needs to encrypt the data on its virtual machines to
 
 • The virtual machine is currently located in the West US 2 region.
 
-• The virtual machine is not currently encrypted
+• The virtual machine is not currently encrypted.
 
 Your team's challenge is to encrypt the virtual machine by using Azure Disk Encryption. The encryption key should be stored in Azure Key Vault.
 
