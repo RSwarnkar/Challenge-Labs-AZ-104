@@ -29,4 +29,4 @@ participate in file sharing via teams.
 
 ### Lab Validation
 
-Click on Validate from the **Lab Validation** tab to check if you have completed the challenge successfully.
+Click on Validate from the **Lab Validation** tab to know if you have completed the challenge successfully.
