@@ -26,3 +26,7 @@ automatically without any manual intervention.
 • John will create a new Teams Site named “Marketing-VendorFiles” and 
 must invite marketing vendor Ron (ron-testuser@outlook.com) user to 
 participate in file sharing via teams.
+
+### Lab Validation
+
+Click on Validate from the **Lab Validation** tab to check if you have completed the challenge successfully.
