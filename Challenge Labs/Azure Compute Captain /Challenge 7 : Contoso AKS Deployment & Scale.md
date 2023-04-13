@@ -14,15 +14,15 @@ as web application.
 
 ### Success Criteria:
 
-• The AKS cluster is configured with Azure File Storage.
+1. The AKS cluster is configured with Azure File Storage.
 
-• The Azure Voting App is deployed to the AKS cluster and must be accessible over internet. 
+1. The Azure Voting App is deployed to the AKS cluster and must be accessible over internet. 
 
-• The web application works as expected.
+1. The web application works as expected.
 
-• The AKS cluster scales automatically based on CPU usage.
+1. The AKS cluster scales automatically based on CPU usage.
 
-• Must have only required ports allowd from internet. 
+1. Must have only required ports allowd from internet. 
 
 ### Lab Validation
 
