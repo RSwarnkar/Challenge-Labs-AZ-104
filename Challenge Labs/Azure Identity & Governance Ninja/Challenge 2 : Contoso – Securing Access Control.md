@@ -19,7 +19,7 @@ The environmet includes Brand new Azure AD tenant with an account having<br>Glob
         ▪ Ability to add application registrations.
         ▪ Ability to manage Licenses
     o Azure Subscription
-        ▪ Must have Reader access on Azure subscription named <br >“Test-Dev.”
+        ▪ Must have Reader access on Azure subscription named “Test-Dev.”
         ▪ Must be able to start/stop Virtual machines hosted in that 
           subscriptions across all resource groups
         ▪ Must be able to create virtual machines and dependent 
