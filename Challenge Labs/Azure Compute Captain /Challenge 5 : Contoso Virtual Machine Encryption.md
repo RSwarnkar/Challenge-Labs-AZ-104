@@ -1,7 +1,7 @@
 ## Challenge 5 : Contoso Virtual Machine Encryption 
 
 ### **Lab Environment:** 
-The environment includes a Azure AD tenant with an account having Global Admin rights. 
+An Azure subscription with pre-provisioned Windows Server 2019 virtual machine. 
 
 ### **Level:** Advanced 
 
