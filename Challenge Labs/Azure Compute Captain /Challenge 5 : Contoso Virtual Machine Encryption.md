@@ -21,7 +21,7 @@ Contoso has decided that it needs to encrypt the data on its virtual machines to
 
 Your team's challenge is to encrypt the virtual machine by using Azure Disk Encryption. The encryption key should be stored in Azure Key Vault.
 
-#### Success Criteria:
+### Success Criteria:
 
 • The virtual machine must be encrypted.
 
