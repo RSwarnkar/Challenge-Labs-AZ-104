@@ -1,11 +1,11 @@
 [ 
   {
-  "Name": "The Azure VM Encryption Challenge : Challenge 5",
+  "Name": "Contoso Company Storage Disaster Recovery : Challenge 14",
   "Language": "English",
   "BaseURL": "https://github.com/CloudLabs-MOC/Challenge-Labs-AZ-104",
   "Files": [
      {
-        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/Challenge-Labs-AZ-104/main/Challenge%20Labs/Azure%20Compute%20Captain%20/Challenge%205%20%3A%20Contoso%20Virtual%20Machine%20Encryption.md",
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/Challenge-Labs-AZ-104/main/Challenge%20Labs/Azure%20Storage%20Sherpa/Challenge%2014%20%3A%20Contoso%20Company%20Storage%20Disaster%20Recovery.md",
        "Order": 1
      }
   ]
