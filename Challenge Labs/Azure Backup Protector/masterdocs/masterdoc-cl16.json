@@ -1,0 +1,13 @@
+[ 
+  {
+  "Name": "Contoso Backup and Recovery Plan. : Challenge 16",
+  "Language": "English",
+  "BaseURL": "https://github.com/CloudLabs-MOC/Challenge-Labs-AZ-104",
+  "Files": [
+     {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/Challenge-Labs-AZ-104/main/Challenge%20Labs/Azure%20Backup%20Protector/Challenge%2016%20%3A%20Contoso%20Backup%20and%20Recovery%20Plan.md",
+       "Order": 1
+     }
+  ]
+ } 
+]
