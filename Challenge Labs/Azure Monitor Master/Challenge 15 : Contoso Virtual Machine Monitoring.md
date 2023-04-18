@@ -1,4 +1,4 @@
-## Challenge 4 : Contoso Web Application Deployment
+## Challenge 15 : Contoso Virtual Machine Monitoring 
 
 ### **Lab Environment:** 
 An Azure subscription with contributor rights with a pre-provisioned virtual machine.
