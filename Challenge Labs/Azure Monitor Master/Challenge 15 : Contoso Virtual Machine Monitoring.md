@@ -21,7 +21,7 @@ issues and take action if necessary.
 
 1. Use VM insights to monitor network traffic to and from the VMs.
 
-1. Query logs to find any errors in VM events and notify Contoso IT Team
+1. Query logs to find any errors in VM events and notify Contoso IT Team.
 
 ### Success criteria:
 
