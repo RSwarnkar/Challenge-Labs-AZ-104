@@ -1,9 +1,9 @@
 ## Challenge 16 : Contoso Backup and Recovery Plan
 
 ### **Lab Environment:** 
-An Azure subscription with contributor rights with a preprovisioned virtual machine. 
+An Azure subscription with contributor rights with a pre-provisioned virtual machine. 
 
-### **Level:** Advanced 
+### **Level:**  Intermediate
 
 ### **Challenge Objective:**
 
