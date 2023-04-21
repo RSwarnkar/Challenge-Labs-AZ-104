@@ -15,7 +15,7 @@ Contoso has decided that it needs to encrypt the data on its virtual machines to
 
 1. The virtual machine has a data disk with a size of 32 GB.
 
-1. The virtual machine is currently located in the West US 2 region.
+1. The virtual machine is currently located in the East US region.
 
 1. The virtual machine is not currently encrypted.
 
