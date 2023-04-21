@@ -1,0 +1,13 @@
+[ 
+  {
+  "Name": "Contoso AKS Deployment & Scale : Challenge 7",
+  "Language": "English",
+  "BaseURL": "https://github.com/CloudLabs-MOC/Challenge-Labs-AZ-104",
+  "Files": [
+     {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/Challenge-Labs-AZ-104/main/Challenge%20Labs/Azure%20Compute%20Captain%20/Challenge%207%20%3A%20Contoso%20AKS%20Deployment%20%26%20Scale.md",
+       "Order": 1
+     }
+  ]
+ } 
+]
