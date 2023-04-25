@@ -1,0 +1,13 @@
+[ 
+  {
+  "Name": "Contoso Web App Hosting with Azure App Service  : Challenge 8",
+  "Language": "English",
+  "BaseURL": "https://github.com/CloudLabs-MOC/Challenge-Labs-AZ-104",
+  "Files": [
+     {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/Challenge-Labs-AZ-104/main/Challenge%20Labs/Azure%20Compute%20Captain%20/Challenge%208%20%3A%20Contoso%20Web%20App%20Hosting%20with%20Azure%20App%20Service%20.md",
+       "Order": 1
+     }
+  ]
+ } 
+]
