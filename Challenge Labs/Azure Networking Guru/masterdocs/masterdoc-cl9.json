@@ -1,0 +1,13 @@
+[ 
+  {
+  "Name": "Contoso Virtual Network Implementation & Security : Challenge 9",
+  "Language": "English",
+  "BaseURL": "https://github.com/CloudLabs-MOC/Challenge-Labs-AZ-104",
+  "Files": [
+     {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/Challenge-Labs-AZ-104/main/Challenge%20Labs/Azure%20Networking%20Guru/Challenge%209%20%3A%20Contoso%20Virtual%20Network%20Implementation%20%26%20Security.md",
+       "Order": 1
+     }
+  ]
+ } 
+]
