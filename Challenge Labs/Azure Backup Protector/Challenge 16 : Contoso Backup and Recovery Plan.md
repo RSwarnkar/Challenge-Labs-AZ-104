@@ -1,7 +1,12 @@
 ## Challenge 16 : Contoso Backup and Recovery Plan
 
 ### **Lab Environment:** 
-An Azure subscription with contributor rights with a pre-provisioned virtual machine. 
+
+1. This lab consists an Azure subscription with contributor permissions, a pre-configured virtual machine, and a resource group with the name **Challenge16-<inject key="DeploymentID" enableCopy="false"/>**.
+
+2. It is recommended to use the **Challenge16-<inject key="DeploymentID" enableCopy="false"/>** resource group through out the challenge.
+
+3. To access the Azure portal, open a new browser tab, go to **[Azure Portal](https://portal.azure.com)**, and log in with the Azure credentials provided on the **Environment details** page.
 
 ### **Level:**  Intermediate
 
