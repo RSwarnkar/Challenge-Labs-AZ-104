@@ -2,11 +2,11 @@
 
 ### **Lab Environment:**
 
-1. This lab consists an Azure subscription with contributor rights with a pre-provisioned virtual machine, and resource group with name **Challenge17-<inject key="DeploymentID" enableCopy="false"/>**. 
+1. This lab consists an Azure subscription with contributor permissions, a pre-configured virtual machine, and a resource group with the name **Challenge17-inject key="DeploymentID" enableCopy="false"/>**. 
 
-2. It is recommended to use the same resource group through out the challenge.
+2. It is recommended to use the **Challenge17-inject key="DeploymentID" enableCopy="false"/>** resource group through out the challenge.
 
-3. Open a new browser window, navigate to the Azure portal with the provided URL **https://portal.azure.com** and login to the portal using the Azure credentaials provided in **Environment details** page.
+3. To access the Azure portal, open a new browser tab, go to **[Azure Portal](https://portal.azure.com)**, and log in with the Azure credentials provided on the **Environment details** page.
 
 ### **Level:**  Intermediate 
 
