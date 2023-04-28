@@ -1,7 +1,12 @@
 ## Challenge 17 : Contoso Disaster Recovery Plan
 
 ### **Lab Environment:**
-An Azure subscription with contributor rights with a pre-provisioned virtual machine.
+
+1. This lab consists an Azure subscription with contributor rights with a pre-provisioned virtual machine, and resource group with name **Challenge17-<inject key="DeploymentID" enableCopy="false"/>**. 
+
+2. It is recommended to use the same resource group through out the challenge.
+
+3. Open a new browser window, navigate to the Azure portal with the provided URL **https://portal.azure.com** and login to the portal using the Azure credentaials provided in **Environment details** page.
 
 ### **Level:**  Intermediate 
 
