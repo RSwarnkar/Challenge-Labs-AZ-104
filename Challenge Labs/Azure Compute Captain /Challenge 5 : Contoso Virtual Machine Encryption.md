@@ -1,13 +1,17 @@
 ## Challenge 5 : Contoso Virtual Machine Encryption 
 
 ### **Lab Environment:** 
-An Azure subscription with pre-provisioned Windows Server 2019 virtual machine. 
+1. An Azure subscription with pre-provisioned Windows Server 2019 virtual machine.
+
+2. You need to use the **Challenge5-<inject key="DeploymentID" enableCopy="false"/>** resource group through out the challenge.
+
+3. To access the Azure portal, open a new browser tab, go to **[Azure Portal](https://portal.azure.com)**, and log in with the Azure credentials provided on the **Environment details** page.
 
 ### **Level:** Advanced 
 
 ### **Challenge Objective:**
 
-Contoso has decided that it needs to encrypt the data on its virtual machines to comply with regulatory requirements. Your team's challenge is to encrypt a virtual machine named “VM-01” in Azure by using Azure Disk Encryption. 
+Contoso has decided that it needs to encrypt the data on its virtual machines to comply with regulatory requirements. Your team's challenge is to encrypt a virtual machine named **labvm-<inject key="DeploymentID" enableCopy="false"/>** in Azure by using Azure Disk Encryption. 
 
 #### The virtual machine has the following specifications :
 
