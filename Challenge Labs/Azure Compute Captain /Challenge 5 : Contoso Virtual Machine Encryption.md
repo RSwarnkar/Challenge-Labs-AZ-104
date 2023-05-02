@@ -11,7 +11,7 @@
 
 ### **Challenge Objective:**
 
-Contoso has decided that it needs to encrypt the data on its virtual machines to comply with regulatory requirements. Your team's challenge is to encrypt a virtual machine named **labvm-<inject key="DeploymentID" enableCopy="false"/>** in Azure by using Azure Disk Encryption. 
+Contoso has decided that it needs to encrypt the data on its virtual machines to comply with regulatory requirements. Your challenge is to encrypt a virtual machine named **labvm-<inject key="DeploymentID" enableCopy="false"/>** in Azure by using Azure Disk Encryption. 
 
 #### The virtual machine has the following specifications :
 

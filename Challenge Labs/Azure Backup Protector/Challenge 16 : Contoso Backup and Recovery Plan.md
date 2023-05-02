@@ -14,7 +14,7 @@
 
 ### Contoso is a company that relies heavily on its data to run its business. As a Azure Administrator, your team has been tasked with setting up a backup and recovery plan for Contoso's critical data. The requirements are as follows:
 
-1. Create an Azure Recovery Services vault to store backups of Contoso's virtual machines
+1. Create an Azure Recovery Services vault to store backups of Contoso's virtual machines.
 
 1. Create a backup policy that performs daily backups at 11:00 PM and retains backups for 30 days.
 
