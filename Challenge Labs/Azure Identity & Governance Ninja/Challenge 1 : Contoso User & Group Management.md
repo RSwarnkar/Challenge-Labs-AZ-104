@@ -1,7 +1,7 @@
 ## Challenge 1 : Contoso User & Group Management
 
 ### **Lab Environment:** 
-The environment includes a Azure AD tenant with an account having Global Admin rights. 
+The environment includes an Azure AD tenant with an account having Global Admin rights. 
 
 ### **Level:** Intermediate 
 
@@ -14,7 +14,7 @@ that meets the company's password policy. John’s department is
 ability to reset their own password and must support using dynamic 
 group membership.
 
-• John must be able to reset their own password using Authenticator 
+• John must be able to reset his own password using Authenticator 
 App. 
 
 • John must be added to an Azure AD Group called “Sales-AllTeam” 
