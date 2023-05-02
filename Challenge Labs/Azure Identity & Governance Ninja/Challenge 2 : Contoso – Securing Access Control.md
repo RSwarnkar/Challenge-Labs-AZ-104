@@ -1,14 +1,14 @@
 ## Challenge 2 : Contoso – Securing Access Control
 
 ### **Lab Environment:** 
-The environmet includes Brand new Azure AD tenant with an account having<br>Global Admin rights and bunch of pre-provisioned resources and resource<br>groups
+The environmet includes Brand new Azure AD tenant with an account having<br>Global Admin rights.
 
 ### **Challenge Objective:**
-• You have a new team member named “John Doe” joining your team 
+1. You have a new team member named “John Doe” joining your team 
   as Azure AD Administrator. Their Azure AD account is already created 
   as part of onboarding process. 
   
-• You need to assign them following permissions in most secure 
+2. You need to assign them following permissions in most secure 
   fashion.   
   - Azure AD rights
   - Ability to Create Users
@@ -17,13 +17,13 @@ The environmet includes Brand new Azure AD tenant with an account having<br>Glob
   - Ability to reset password.
   - Ability to add application registrations.
   - Ability to manage Licenses
-• Azure Subscription
+3. Azure Subscription
   - Must have Reader access on Azure subscription named “Test-Dev.”
   - Must be able to start/stop Virtual machines hosted in that 
   - subscriptions across all resource groups
   - Must be able to create virtual machines and dependent in a resource group named “John-Doe-Test-RG”
 
-• You need to ensure following guidelines while completing these 
+4. You need to ensure following guidelines while completing these 
 challenges. 
 
    - Must follow the principal of least privilege. 
