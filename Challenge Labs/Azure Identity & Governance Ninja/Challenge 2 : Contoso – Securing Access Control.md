@@ -10,18 +10,18 @@ The environmet includes Brand new Azure AD tenant with an account having<br>Glob
   
 2. You need to assign them following permissions in most secure 
   fashion.   
-  - Azure AD rights
-  - Ability to Create Users
-  - Ability to Create and Update Groups
-  - Ability to invite Guest Users
-  - Ability to reset password.
-  - Ability to add application registrations.
-  - Ability to manage Licenses
+   - Azure AD rights
+   - Ability to Create Users
+   - Ability to Create and Update Groups
+   - Ability to invite Guest Users
+   - Ability to reset password.
+   - Ability to add application registrations.
+   - Ability to manage Licenses
 3. Azure Subscription
-  - Must have Reader access on Azure subscription named “Test-Dev.”
-  - Must be able to start/stop Virtual machines hosted in that 
-  - subscriptions across all resource groups
-  - Must be able to create virtual machines and dependent in a resource group named “John-Doe-Test-RG”
+   - Must have Reader access on Azure subscription named “Test-Dev.”
+   - Must be able to start/stop Virtual machines hosted in that 
+   - subscriptions across all resource groups
+   - Must be able to create virtual machines and dependent in a resource group named “John-Doe-Test-RG”
 
 4. You need to ensure following guidelines while completing these 
 challenges. 
