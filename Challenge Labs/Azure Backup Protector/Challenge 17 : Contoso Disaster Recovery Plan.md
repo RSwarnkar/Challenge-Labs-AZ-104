@@ -14,13 +14,13 @@
 
 ### Contoso wants to ensure that its critical workloads are protected against any potential disasters. As a Azure Administrator, your team has been tasked with setting up a disaster recovery plan for Contoso's virtual machines. The requirements are as follows:
 
-1.  Create an Azure Site Recovery (ASR) vault to replicate Contoso's virtual machines to a secondary region
+1.  Create an Azure Site Recovery (ASR) vault to replicate Contoso's virtual machines to a secondary region.
  
 1.  Configure replication for a virtual machine to the secondary region.
 
-1.  Test the replication by performing a planned failover of the virtual machine to the secondary region
+1.  Test the replication by performing a planned failover of the virtual machine to the secondary region.
 
-1.  Perform a unplanned failover of the virtual machine to the secondary region in the event of a disaster
+1.  Perform a unplanned failover of the virtual machine to the secondary region in the event of a disaster.
 
 ### Success Criteria:
 
