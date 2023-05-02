@@ -31,7 +31,7 @@
 
 1. IIS with default page must be accessible.
 
-#### Your team's challenge is to deploy this web application in Azure by using an ARM template/Azure Portal. This should include the following resources:
+#### Your challenge is to deploy this web application in Azure by using an ARM template/Azure Portal. This should include the following resources:
 
 1. A virtual network along with other required network depdencies. 
 
