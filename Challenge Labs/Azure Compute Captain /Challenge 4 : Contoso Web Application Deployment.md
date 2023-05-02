@@ -2,11 +2,12 @@
 
 ### **Lab Environment:** 
 
-1. This lab consists an Azure subscription and contributor-permitted resource group called **Challenge4-SUFFIX**.
+1. This lab consists of an Azure subscription and a contributor-permitted resource group called **Challenge4-SUFFIX**.
 
 2. You need to use the **Challenge4-SUFFIX** resource group through out the challenge.
 
 3. To access the Azure portal, open a new browser tab, go to **[Azure Portal](https://portal.azure.com)**, and log in with the Azure credentials provided on the **Environment details** page. 
+
 
 ### **Level:** Advanced 
 
