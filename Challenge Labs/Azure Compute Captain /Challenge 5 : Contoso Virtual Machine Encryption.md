@@ -1,4 +1,4 @@
-## Challenge 5 : Contoso Virtual Machine Encryption 
+## Challenge 4 : Contoso Virtual Machine Encryption 
 
 ### **Contoso Environment:** 
 
