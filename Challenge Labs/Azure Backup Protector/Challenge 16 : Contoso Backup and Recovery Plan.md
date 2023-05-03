@@ -2,7 +2,7 @@
 
 ### **Contoso Environment:** 
 
-1. The Contoso environment consists an Azure **subscription** with **contributor** permissions, a pre-configured Contoso virtual machine with the name **Contosovm<inject key="DeploymentID" enableCopy="false"/>**, and a resource group with the name **Challenge16-<inject key="DeploymentID" enableCopy="false"/>**.
+1. The Contoso environment consists of an Azure **subscription** with **contributor** permissions, a pre-configured Contoso virtual machine with the name **Contosovm<inject key="DeploymentID" enableCopy="false"/>**, and a resource group with the name **Challenge16-<inject key="DeploymentID" enableCopy="false"/>**.
 
 1. To access the Azure portal, open a private/incognito window in your browser and navigate to **[Azure Portal](https://portal.azure.com)**.
 
@@ -35,7 +35,7 @@
 
 ### **Challenge Objective:**
 
-#### Contoso is a company that relies heavily on its data to run its business. As a Azure Administrator, your team has been tasked with setting up a backup and recovery plan for Contoso's critical data. The requirements are as follows:
+#### Contoso is a company that relies heavily on its data to run its business. As an Azure Administrator, your team has been tasked with setting up a backup and recovery plan for Contoso's critical data. The requirements are as follows:
 
 1. Create an Azure Recovery Services vault to store backups of Contoso's virtual machines.
 
@@ -49,7 +49,7 @@
 
 ### Success Criteria:
 
-1. The Recovery Services vault is successfully created
+1. The Recovery Services vault is successfully created.
 
 1. The backup policy is successfully configured and performs a backup of the virtual machine.
 
@@ -59,19 +59,19 @@
 
 1. After completing the challenge, you need to visit the **Lab Validation (1)** tab and click on the **VALIDATE (2)** button under Actions to perform the validation steps. Verify that you have met the success criteria of the challenge. 
 
-    ![](media/validate1.png "Validation")
+    ![](media/validate01.png "Validation")
 
 1. If the validation status displays **Success** for all the validation steps, **congratulations!**. This means that you have successfully completed the challenge. 
 
-     ![](media/validate5.png "Validation")
+     ![](media/validate02.png "Validation")
      
 1. If the validation status displays **Fail**, **don't worry!** This could mean that you did not perform the challenge correctly.
 
-     ![](media/validate3.png "Validation")
+     ![](media/validate03.png "Validation")
 
 1. Hover your mouse over the `i` **(1)** icon to see the error message and determine the root cause of the failure. Based on the error message, revisit the challenge as necessary, and redo the validation by clicking on the **VALIDATE (3)** button again.
       
-     ![](media/validate4.png "Validation") 
+     ![](media/validate04.png "Validation") 
 
 1. If you are still having trouble, you can reach out to the support team via `labs-support@spektrasystems.com` for further assistance. The support team is available to help you to troubleshoot and resolve any technical issues or validation issues that may arise while the lab environment is live.
 
