@@ -28,7 +28,7 @@
    
 1. Confirm you have a resource group **Challenge16-<inject key="DeploymentID" enableCopy="false"/>** present as shown in the below screenshot. You need to use the **Challenge16-<inject key="DeploymentID" enableCopy="false"/>** resource group through out the challenge.
 
-    ![](media/openai1.png "Resource groups")
+    ![](media/Rg.png "Resource groups")
    
 
 ### **Level:**  Intermediate
