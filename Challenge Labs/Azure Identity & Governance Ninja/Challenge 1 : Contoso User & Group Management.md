@@ -6,25 +6,20 @@ The environment includes an Azure AD tenant with an account having Global Admin 
 ### **Level:** Intermediate 
 
 ### **Challenge Objective:**
-• Create a new user in Azure AD named "John Smith" with a password 
-that meets the company's password policy. John’s department is 
+
+1. Create a new user in Azure AD named "John Smith" with a password that meets the company's password policy. John’s department is 
 “Sales”, Office location is “Seattle”.
 
-• Assign the user a license for accessing emails, teams, SharePoint, have 
-ability to reset their own password and must support using dynamic 
+1. Assign the user a license for accessing emails, teams, SharePoint, have ability to reset their own password and must support using dynamic 
 group membership.
 
-• John must be able to reset his own password using Authenticator 
-App. 
+1. John must be able to reset his own password using Authenticator App. 
 
-• John must be added to an Azure AD Group called “Sales-AllTeam” 
-automatically without any manual intervention.
+1. John must be added to an Azure AD Group called “Sales-AllTeam” automatically without any manual intervention.
 
-• John must be added to an Azure AD Group called “Sales-SeattleTeam” 
-automatically without any manual intervention.
+1. John must be added to an Azure AD Group called “Sales-SeattleTeam” automatically without any manual intervention.
 
-• John will create a new Teams Site named “Marketing-VendorFiles” and 
-must invite marketing vendor Ron (ron-testuser@outlook.com) user to 
+1. John will create a new Teams Site named “Marketing-VendorFiles” and must invite marketing vendor Ron (ron-testuser@outlook.com) user to 
 participate in file sharing via teams.
 
 ### Lab Validation
