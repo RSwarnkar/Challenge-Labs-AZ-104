@@ -57,7 +57,7 @@
 
 ### Lab Validation
 
-1. After completing the challenge, you need to visit the **validations (1)** tab and click on the **Validate (2)** button under Actions to perform the validation steps and verify that you have met the success criteria of the challenge. 
+1. After completing the challenge, you need to visit the **validations (1)** tab and click on the **Validate (2)** button under Actions to perform the validation steps. Verify that you have met the success criteria of the challenge. 
 
     ![](media/validate1.png "Validation")
 
@@ -73,7 +73,7 @@
       
      ![](media/validate4.png "Validation") 
 
-1. If you are still having trouble, you can reach out to the support team via `labs-support@spektrasystems.com` for further assistance. The support team is available to help troubleshoot and resolve any technical issues OR validation issues that may arise while the lab environment is live.
+1. If you are still having trouble, you can reach out to the support team via `labs-support@spektrasystems.com` for further assistance. The support team is available to help you to troubleshoot and resolve any technical issues or validation issues that may arise while the lab environment is live.
 
 
 
