@@ -26,7 +26,7 @@
 
     ![](media/select-rg.png "Resource groups")
    
-1. Confirm you have a resource group **Challenge16-<inject key="DeploymentID" enableCopy="false"/>** present as shown in the below screenshot. You need to use the **Challenge16-<inject key="DeploymentID" enableCopy="false"/>** resource group through out the challenge.
+1. Confirm you have a resource group **Challenge02-SUFFIX** present as shown in the below screenshot. You need to use the **Challenge02-SUFFIX** resource group through out the challenge.
 
     ![](media/challenge02_V01.png "Resource groups")
 
