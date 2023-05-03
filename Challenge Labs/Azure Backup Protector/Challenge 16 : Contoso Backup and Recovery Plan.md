@@ -57,7 +57,7 @@
 
 ### Lab Validation
 
-1. After completing the challenge, you need to visit the **Lab Validation (1)** tab and click on the **Validate (2)** button under Actions to perform the validation steps. Verify that you have met the success criteria of the challenge. 
+1. After completing the challenge, you need to visit the **Lab Validation (1)** tab and click on the **VALIDATE (2)** button under Actions to perform the validation steps. Verify that you have met the success criteria of the challenge. 
 
     ![](media/validate1.png "Validation")
 
@@ -69,7 +69,7 @@
 
      ![](media/validate3.png "Validation")
 
-1. Hover your mouse over the `i` **(1)** icon to see the error message and determine the root cause of the failure. Based on the error message, revisit the challenge as necessary, and redo the validation by clicking on the **Validate (3)** button again.
+1. Hover your mouse over the `i` **(1)** icon to see the error message and determine the root cause of the failure. Based on the error message, revisit the challenge as necessary, and redo the validation by clicking on the **VALIDATE (3)** button again.
       
      ![](media/validate4.png "Validation") 
 
