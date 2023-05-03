@@ -5,7 +5,7 @@
   "BaseURL": "https://github.com/CloudLabs-MOC/Challenge-Labs-AZ-104",
   "Files": [
      {
-        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/Challenge-Labs-AZ-104/main/Challenge%20Labs/Azure%20Networking%20Guru/Challenge%2010%3A%20Contoso%20VM%20Scale%20Set%20with%20Load%20Balancing.md",
+        "RawFilePath": "https://raw.githubusercontent.com/neelotpalchaulia/Challenge-Labs-AZ-104/main/Challenge%20Labs/Azure%20Networking%20Guru/Challenge%2010%3A%20Contoso%20VM%20Scale%20Set%20with%20Load%20Balancing.md",
        "Order": 1
      }
   ]
