@@ -1,4 +1,4 @@
-## Challenge 17 : Contoso Disaster Recovery Plan
+## Challenge 6 : Contoso Disaster Recovery Plan
 
 ### **Contoso Environment:** 
 
