@@ -1,4 +1,4 @@
-## Challenge 16 : Contoso Backup and Recovery Plan
+## Challenge 5 : Contoso Backup and Recovery Plan
 
 ### **Contoso Environment:** 
 
