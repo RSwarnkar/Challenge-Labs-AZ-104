@@ -1,12 +1,35 @@
 ## Challenge 16 : Contoso Backup and Recovery Plan
 
-### **Lab Environment:** 
+### **Contoso Environment:** 
 
-1. This lab consists an Azure subscription with contributor permissions, a pre-configured virtual machine, and a resource group with the name **Challenge16-<inject key="DeploymentID" enableCopy="false"/>**.
+1. The Contoso environment consists an Azure **subscription** with **contributor** permissions, a pre-configured Contoso virtual machine with the name **Contosovm<inject key="DeploymentID" enableCopy="false"/>**, and a resource group with the name **Challenge16-<inject key="DeploymentID" enableCopy="false"/>**.
 
-2. You need to use the **Challenge16-<inject key="DeploymentID" enableCopy="false"/>** resource group through out the challenge.
+1. To access the Azure portal, open a private/incognito window in your browser and navigate to **[Azure Portal](https://portal.azure.com)**.
 
-3. To access the Azure portal, open a new browser tab, go to **[Azure Portal](https://portal.azure.com)**, and log in with the Azure credentials provided on the **Environment details** page.
+1. On the **Sign in to Microsoft Azure** tab you will see a login screen, enter the following email/username and then click on **Next**. 
+   * Email/Username: <inject key="AzureAdUserEmail"></inject>
+   
+     ![](media/image7.png "Enter Email")
+     
+1. Now enter the following password and click on **Sign in**.
+   * Password: <inject key="AzureAdUserPassword"></inject>
+   
+     ![](media/image8.png "Enter Password")
+     
+1. If you see the pop-up **Stay Signed in?**, click No
+
+1. If you see the pop-up **You have free Azure Advisor recommendations!**, close the window to continue the lab.
+
+1. If a **Welcome to Microsoft Azure** popup window appears, click **Maybe Later** to skip the tour.
+   
+1. Now you will see Azure Portal Dashboard, click on **Resource groups** from the Navigate panel to see the resource groups.
+
+    ![](media/select-rg.png "Resource groups")
+   
+1. Confirm you have a resource group **Challenge16-<inject key="DeploymentID" enableCopy="false"/>** present as shown in the below screenshot. You need to use the **Challenge16-<inject key="DeploymentID" enableCopy="false"/>** resource group through out the challenge.
+
+    ![](media/openai1.png "Resource groups")
+   
 
 ### **Level:**  Intermediate
 
@@ -31,8 +54,6 @@
 1. The backup policy is successfully configured and performs a backup of the virtual machine.
 
 1. The backup and restore operations are successful and the virtual machine is fully restored to its original state.
-
-1. The backup reports show that the backup was successful and the virtual machine is protected by the backup policy.
 
 ### Lab Validation
 
