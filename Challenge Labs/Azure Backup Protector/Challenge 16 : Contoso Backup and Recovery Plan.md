@@ -57,7 +57,7 @@
 
 ### Lab Validation
 
-1. After completing the challenge, you need to visit the **validations (1)** tab and click on the **Validate (2)** button under Actions to perform the validation steps. Verify that you have met the success criteria of the challenge. 
+1. After completing the challenge, you need to visit the **Lab Validation (1)** tab and click on the **Validate (2)** button under Actions to perform the validation steps. Verify that you have met the success criteria of the challenge. 
 
     ![](media/validate1.png "Validation")
 
