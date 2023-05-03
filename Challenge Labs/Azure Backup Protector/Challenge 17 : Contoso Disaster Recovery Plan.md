@@ -28,7 +28,7 @@
    
 1. Confirm you have a resource group **Challenge17-<inject key="DeploymentID" enableCopy="false"/>** present as shown in the below screenshot. You need to use the **Challenge16-<inject key="DeploymentID" enableCopy="false"/>** resource group through out the challenge.
 
-    ![](media/Rg.png "Resource groups")
+    ![](media/Rg2.png "Resource groups")
 
 ### **Level:**  Intermediate 
 
@@ -56,19 +56,19 @@
 
 1. After completing the challenge, you need to visit the **Lab Validation (1)** tab and click on the **VALIDATE (2)** button under Actions to perform the validation steps. Verify that you have met the success criteria of the challenge. 
 
-    ![](media/validate01.png "Validation")
+    ![](media/challenge16_V01.png "Validation")
 
 1. If the validation status displays **Success** for all the validation steps, **congratulations!**. This means that you have successfully completed the challenge. 
 
-     ![](media/validate02.png "Validation")
+     ![](media/challenge16_V04.png "Validation")
      
 1. If the validation status displays **Fail**, **don't worry!** This could mean that you did not perform the challenge correctly.
 
-     ![](media/validate03.png "Validation")
+     ![](media/challenge16_V02.png "Validation")
 
 1. Hover your mouse over the `i` **(1)** icon to see the error message and determine the root cause of the failure. Based on the error message, revisit the challenge as necessary, and redo the validation by clicking on the **VALIDATE (3)** button again.
       
-     ![](media/validate04.png "Validation") 
+     ![](media/challenge16_V03.png "Validation") 
 
 1. If you are still having trouble, you can reach out to the support team via `labs-support@spektrasystems.com` for further assistance. The support team is available to help you to troubleshoot and resolve any technical issues or validation issues that may arise while the lab environment is live.
 
