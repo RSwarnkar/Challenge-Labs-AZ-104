@@ -60,7 +60,7 @@
 
 1. If the validation status displays **Success** for all the validation steps, **congratulations!**. This means that you have successfully completed the challenge. 
 
-     ![](media/challenge03-v2.png.png "Validation")
+     ![](media/challenge03-v2.png "Validation")
      
 1. If the validation status displays **Fail**, **don't worry!** This could mean that you did not perform the challenge correctly.
 
