@@ -48,7 +48,7 @@ Contoso Company wants to ensure that their data is available even in the event o
 
 1. Verify that the data is available even in the event of a disaster.
 
-### Lab Validation
+### Lab Validation:
 
 1. After completing the challenge, you need to visit the **Lab Validation (1)** tab and click on the **VALIDATE (2)** button under Actions to perform the validation steps. Verify that you have met the success criteria of the challenge. 
 
