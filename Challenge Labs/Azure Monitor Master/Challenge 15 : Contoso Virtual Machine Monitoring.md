@@ -2,7 +2,7 @@
 
 ### **Contoso Environment:** 
 
-1. The Contoso environment consists of an Azure **subscription** with **contributor** permissions, a pre-configured Contoso virtual machine with the name **Contosovm<inject key="DeploymentID" enableCopy="false"/>**, and a resource group with the name **Challenge15-<inject key="DeploymentID" enableCopy="false"/>**.
+1. The Contoso environment consists of an Azure **subscription** with **contributor** permissions, a pre-configured Contoso virtual machine with the name **Contosovm<inject key="DeploymentID" enableCopy="false"/>**, and a resource group with the name **Challenge15**.
 
 1. To access the Azure portal, open a private/incognito window in your browser and navigate to **[Azure Portal](https://portal.azure.com)**.
 
@@ -26,7 +26,7 @@
 
     ![](media/select-rg.png "Resource groups")
    
-1. Confirm you have a resource group **Challenge15-<inject key="DeploymentID" enableCopy="false"/>** present as shown in the below screenshot. You need to use the **Challenge15-<inject key="DeploymentID" enableCopy="false"/>** resource group through out this challenge.
+1. Confirm you have a resource group **Challenge15** present as shown in the below screenshot. You need to use the **Challenge15** resource group through out this challenge.
 
     ![](media/challenge15-rg.png "Resource groups")
 
