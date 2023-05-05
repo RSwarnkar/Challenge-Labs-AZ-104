@@ -66,14 +66,14 @@ Contoso Company has a large amount of data that needs to be archived to Azure Bl
 
 1. If the validation status displays **Success** for all the validation steps, **congratulations!** This means that you have successfully completed the challenge. 
 
-     ![](media/Challenge12-v2.png "Validation")
+     ![](media/challenge12-v2.png "Validation")
      
 1. If the validation status displays **Fail**, **don't worry!** This could mean that you did not perform the challenge correctly.
 
-     ![](media/Challenge12-v3.png "Validation")
+     ![](media/challenge12-v3.png "Validation")
 
 1. Hover your mouse over the `i` **(1)** icon to see the error message and determine the root cause of the failure. Based on the error message, revisit the challenge as necessary, and redo the validation by clicking on the **VALIDATE (3)** button again.
       
-     ![](media/Challenge12-v4.png "Validation") 
+     ![](media/challenge12-v4.png "Validation") 
 
 1. If you are still having trouble, you can reach out to the support team via `labs-support@spektrasystems.com` for further assistance. The support team is available to help you to troubleshoot and resolve any technical issues or validation issues that may arise while the lab environment is live.
