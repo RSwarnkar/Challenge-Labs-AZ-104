@@ -36,7 +36,7 @@
 
 Contoso Company is looking to migrate their on-premises file server to Azure. Your challenge is to create an Azure File Share and configure access to it.
 
-#### Challenge Tasks and Success criterias:
+#### Challenge tasks and success criterias:
 
 1. Create an Azure File Share.
 
