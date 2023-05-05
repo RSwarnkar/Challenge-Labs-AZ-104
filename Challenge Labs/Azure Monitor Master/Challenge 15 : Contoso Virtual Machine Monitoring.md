@@ -16,7 +16,7 @@
    
      ![](media/password2.png "Enter Password")
      
-1. If you see the pop-up **Stay Signed in?**. click No.
+1. If you see the pop-up **Stay Signed in?** click No.
 
 1. If you see the pop-up **You have free Azure Advisor recommendations!**, close the window to continue the lab.
 
