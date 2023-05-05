@@ -28,7 +28,7 @@
    
 1. Confirm you have a resource group **Challenge12-<inject key="DeploymentID" enableCopy="false"/>** present as shown in the below screenshot. You need to use the **Challenge12-<inject key="DeploymentID" enableCopy="false"/>** resource group through out this challenge.
 
-    ![](media/Challenge11-rg.png "Resource groups")
+    ![](media/Challenge12-rg.png "Resource groups")
 
 ### **Level:** Advanced 
 
@@ -62,18 +62,18 @@ Contoso Company has a large amount of data that needs to be archived to Azure Bl
 
 1. After completing the challenge, you need to visit the **Lab Validation (1)** tab and click on the **VALIDATE (2)** button under Actions to perform the validation steps. Verify that you have met the success criteria of the challenge. 
 
-    ![](media/Challenge11-v1.png "Validation")
+    ![](media/Challenge12-v1.png "Validation")
 
 1. If the validation status displays **Success** for all the validation steps, **congratulations!** This means that you have successfully completed the challenge. 
 
-     ![](media/Challenge11-v2.png "Validation")
+     ![](media/Challenge12-v2.png "Validation")
      
 1. If the validation status displays **Fail**, **don't worry!** This could mean that you did not perform the challenge correctly.
 
-     ![](media/Challenge11-v3.png "Validation")
+     ![](media/Challenge12-v3.png "Validation")
 
 1. Hover your mouse over the `i` **(1)** icon to see the error message and determine the root cause of the failure. Based on the error message, revisit the challenge as necessary, and redo the validation by clicking on the **VALIDATE (3)** button again.
       
-     ![](media/Challenge11-v4.png "Validation") 
+     ![](media/Challenge12-v4.png "Validation") 
 
 1. If you are still having trouble, you can reach out to the support team via `labs-support@spektrasystems.com` for further assistance. The support team is available to help you to troubleshoot and resolve any technical issues or validation issues that may arise while the lab environment is live.
