@@ -26,7 +26,7 @@
 
     ![](media/select-rg.png "Resource groups")
    
-1. Confirm you have a resource group **Challenge13** present as shown in the below screenshot. You need to use the **Challenge123** resource group through out this challenge.
+1. Confirm you have a resource group **Challenge13** present as shown in the below screenshot. You need to use the **Challenge13** resource group through out this challenge.
 
     ![](media/challenge13-rg.png "Resource groups")
 
