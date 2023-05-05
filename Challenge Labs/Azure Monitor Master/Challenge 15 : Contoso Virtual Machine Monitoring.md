@@ -60,7 +60,7 @@ Contoso is a cloud-based company that relies heavily on virtual machines (VMs) t
 
 1. The IT team receives an email notification when any errors are logged in Azure Monitor.
 
-### Lab Validation
+### Lab Validation:
 
 1. After completing the challenge, you need to visit the **Lab Validation (1)** tab and click on the **VALIDATE (2)** button under Actions to perform the validation steps. Verify that you have met the success criteria of the challenge. 
 
