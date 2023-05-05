@@ -51,7 +51,7 @@ Your task is to design and configure a highly secure and resilient virtual netwo
 
 1. Virtual machines in primary-vnet must not be allowing RDP 3389 port from any source. You must implement an alternate method for RDP which does not require exposing RDP 3389 port, both internally and externally. 
 
-1. The virtual machines in the primary-application subnet must be able to access a blog storage account named “appstorageuniquestring” securely by private network without going through internet. 
+1. The virtual machines in the primary-application subnet must be able to access a blob storage account named “appstorageuniquestring” securely by private network without going through internet. 
 
 1. The virtual network should have a network security group (NSG) associated with the all subnets. The NSG should have the any rules except than required for this setup.
 
