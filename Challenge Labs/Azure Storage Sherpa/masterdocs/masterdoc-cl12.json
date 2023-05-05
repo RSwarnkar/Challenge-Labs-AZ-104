@@ -1,0 +1,13 @@
+[ 
+  {
+  "Name": "Contoso Company Data Migration & Archiving : Challenge 12",
+  "Language": "English",
+  "BaseURL": "https://github.com/CloudLabs-MOC/Challenge-Labs-AZ-104",
+  "Files": [
+     {
+        "RawFilePath": "https://raw.githubusercontent.com/neelotpalchaulia/Challenge-Labs-AZ-104/main/Challenge%20Labs/Azure%20Storage%20Sherpa/Challenge%2012%20%3A%20Contoso%20Company%20Data%20Migration%20and%20Archiving.md",
+       "Order": 1
+     }
+  ]
+ } 
+]
